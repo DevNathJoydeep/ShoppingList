@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.joydeep.shoppinglist"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Shopping List</name>
+
+  <description>
+      Shopping List
+  </description>
+
+  <author href="https://devnathjoydeep.github.io/">
+      Joydeep Dev Nath
+  </author>
+
+  <icon src="icon.png" width="313" height="313" />
+  <splash src="splash.png" />
+
+</widget>
